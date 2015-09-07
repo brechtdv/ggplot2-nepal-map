@@ -2,7 +2,6 @@
 ### Last update: 06/09/2015
 
 ## attach libraries
-library(bd)
 library(XLConnect)
 
 ## load mapping functions
