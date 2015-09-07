@@ -5,8 +5,7 @@
 library(bd)
 library(XLConnect)
 
-## set dropbox working directory
-setwd(dropbox("- Rabies/__maps"))
+## load mapping functions
 source("nepal-map-utils.R")
 
 ## read data
